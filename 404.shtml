@@ -1,0 +1,6 @@
+<!-- SHTML Wrapper - 404 Not Found -->
+<!--#exec cgi="/cgi-sys/fourohfour.cgi" -->
+<!doctype html>
+<html>
+<body><h1>please wait for a while for the page to be restored. Meanwhile try this url: https://www.codebrunner.tech/emailmanagement</body>
+</html>
